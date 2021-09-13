@@ -93,6 +93,10 @@ main h1 {
     margin: 1rem;
 }
 
+.active {
+    color: blue;
+}
+
 nav {
 
     text-align: right;
